@@ -1,0 +1,12 @@
+F:\dotnetProject\active\Intelligence\DesktopGrid\bin\Debug\DesktopGrid.exe.config
+F:\dotnetProject\active\Intelligence\DesktopGrid\bin\Debug\DesktopGrid.exe
+F:\dotnetProject\active\Intelligence\DesktopGrid\bin\Debug\DesktopGrid.pdb
+F:\dotnetProject\active\Intelligence\DesktopGrid\bin\Debug\System.Net.Http.dll
+F:\dotnetProject\active\Intelligence\DesktopGrid\bin\Debug\System.Net.Http.xml
+F:\dotnetProject\active\Intelligence\DesktopGrid\obj\Debug\DesktopGrid.FileSection.resources
+F:\dotnetProject\active\Intelligence\DesktopGrid\obj\Debug\DesktopGrid.GridCaption.resources
+F:\dotnetProject\active\Intelligence\DesktopGrid\obj\Debug\DesktopGrid.GridForm.resources
+F:\dotnetProject\active\Intelligence\DesktopGrid\obj\Debug\DesktopGrid.Properties.Resources.resources
+F:\dotnetProject\active\Intelligence\DesktopGrid\obj\Debug\DesktopGrid.csproj.GenerateResource.Cache
+F:\dotnetProject\active\Intelligence\DesktopGrid\obj\Debug\DesktopGrid.exe
+F:\dotnetProject\active\Intelligence\DesktopGrid\obj\Debug\DesktopGrid.pdb
